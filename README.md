@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neel Parmar</h1>
+<h1 align="center">Hi, I'm Neel Parmar</h1>
 <h3 align="center">B.Tech CSE Student | Learning Full-Stack Development | Tech Enthusiast</h3>
 
 <p align="center">
