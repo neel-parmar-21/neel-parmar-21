@@ -2,10 +2,10 @@
 <h3 align="center">B.Tech CSE Student | Learning Full-Stack Development | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/neel-parmar-230b43427" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/neel-parmar-21">
     <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github"/>
   </a>
 </p>
