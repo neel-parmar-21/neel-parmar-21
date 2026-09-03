@@ -1,14 +1,10 @@
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,20:0F172A,45:172554,70:1D4ED8,100:020617&height=280&section=header&text=Neel%20Parmar&fontSize=50&fontColor=F8FAFC&fontFamily=Trebuchet%20MS&fontAlignY=38&desc=Building%20my%20developer%20journey&descAlignY=55&descSize=18&descColor=BFDBFE&animation=twinkling&stroke=60A5FA&strokeWidth=2"/>
-
-<a href="https://github.com/neel-parmar-21">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Neel+Parmar+%F0%9F%91%8B;B.Tech+CSE+Student+at+CodingGita+%F0%9F%8E%93;Learning+HTML%2C+CSS%2C+JavaScript+%26+Python+%F0%9F%92%BB;Exploring+UI%2FUX+Design+%E2%9C%A8"/>
-</a>
-
-</div>
-
+<p align="center">
+  <img
+    width="100%"
+    src="https://YOUR-PROJECT-NAME.vercel.app/api/banner"
+    alt="Neel Parmar Developer Banner"
+  />
+</p>
 
 <br><br>
 
