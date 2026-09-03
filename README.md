@@ -57,6 +57,8 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
+<br>
+
 <h3 align="center">📈 Developer Journey Progress</h3>
 <p align="center"><sub>Not skill ratings — just an honest snapshot of where I am with each one right now.</sub></p>
 
@@ -72,7 +74,7 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 
 </div>
 
-
+<br>
 <h3 align="center">📊 GitHub Dashboard</h3>
 
 <table align="center">
@@ -92,8 +94,6 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 </picture>
 </p>
 
-<p align="center"><sub>Powered by the GitHub Actions workflow below — it needs one push to <code>main</code> to generate.</sub></p>
-
 
 ## 🚀 My Journey So Far
 
@@ -108,6 +108,7 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -120,6 +121,7 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 
 </div>
 
+<br>
 
 </div>
 
@@ -129,7 +131,7 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 
 <p align="center">
 
-📚 <b>Learn</b>
+  📚 <b>Learn</b>
 &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
 💻 <b>Build</b>
 &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
@@ -140,10 +142,7 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 🚀 <b>Evolve</b>
 
 </p>
-
-<p align="center">
-<sub>Every step forward starts with learning.</sub>
-</p>
+<br>
 
 <h3 align="center">🌐 Connect</h3>
 
