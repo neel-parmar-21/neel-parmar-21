@@ -1,16 +1,14 @@
-<div align="center">
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:172554,45:1E3A8A,70:2563EB,85:1D4ED8,100:020617&height=250&section=header&text=Neel%20Parmar&fontSize=50&fontColor=F8FAFC&fontFamily=Trebuchet%20MS&fontAlignY=42&desc=Building%20my%20developer%20journey&descAlignY=62&descSize=18&descColor=BFDBFE&animation=fadeIn&stroke=60A5FA&strokeWidth=2"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,20:0F172A,45:172554,70:1D4ED8,100:020617&height=280&section=header&text=Neel%20Parmar&fontSize=50&fontColor=F8FAFC&fontFamily=Trebuchet%20MS&fontAlignY=38&desc=Building%20my%20developer%20journey&descAlignY=55&descSize=18&descColor=BFDBFE&animation=twinkling&stroke=60A5FA&strokeWidth=2"/>
 
 <a href="https://github.com/neel-parmar-21">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Neel+Parmar+%F0%9F%91%8B;B.Tech+Computer+Science+Engineering+Student+%F0%9F%8E%93;Studying+at+CodingGita+%F0%9F%8F%AB;Learning+HTML%2C+CSS%2C+JavaScript+%26+Python+%F0%9F%92%BB;Exploring+UI%2FUX+Design+%E2%9C%A8;Learning.+Building.+Growing.+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Neel+Parmar+%F0%9F%91%8B;B.Tech+CSE+Student+at+CodingGita+%F0%9F%8E%93;Learning+HTML%2C+CSS%2C+JavaScript+%26+Python+%F0%9F%92%BB;Exploring+UI%2FUX+Design+%E2%9C%A8"/>
 </a>
 
 </div>
+
 
 <br><br>
 
