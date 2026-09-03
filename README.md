@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0F2A5F,75:1D4ED8,100:38BDF8&height=280&section=header&text=NEEL%20PARMAR&fontSize=64&fontColor=FFFFFF&fontFamily=Segoe%20UI&fontAlignY=38&desc=Building%20my%20developer%20journey%20%E2%80%94%20one%20commit%20at%20a%20time.&descAlignY=60&descSize=18&descColor=BAE6FD&animation=twinkling&stroke=60A5FA&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0B1F45,55:1E40AF,80:2563EB,100:020617&height=240&section=header&text=Neel%20Parmar&fontSize=50&fontColor=F8FAFC&fontFamily=Trebuchet%20MS&fontAlignY=42&desc=Building%20my%20developer%20journey&descAlignY=62&descSize=18&descColor=BFDBFE&animation=fadeIn&stroke=60A5FA&strokeWidth=2"/>
+
 <img src="https://komarev.com/ghpvc/?username=neel-parmar-21&label=PROFILE%20VIEWS&color=1E3A8A&style=flat-square&labelColor=0F172A" alt="Profile views"/>
 
 <br><br>
@@ -8,26 +9,31 @@
 </div>
 
 
-<h3 align="center">🧠 About Me</h3>
+<h2 align="center">🧠 About Me</h2>
 
-<p align="center">
-I'm Neel Parmar, a first-year B.Tech Computer Science Engineering student at CodingGita, on an academic<br/>
-journey that runs from 2026 to 2030. I'm right at the start of my developer path — currently learning<br/>
-HTML, CSS, JavaScript and Python, and exploring UI/UX design as I figure out what kind of builder I want to become.
-</p>
+<br/>
 
-<p align="center">
-I'd rather understand how something works than copy a solution I don't fully get. That means I move a little<br/>
-slower some days, but what I learn tends to stick. Git, GitHub, VS Code and Figma are the tools I'm getting<br/>
-comfortable with, and web development, full-stack engineering, AI/ML, DSA and app development are the<br/>
-directions I'm most curious to grow into.
-</p>
+I'm **Neel Parmar**, a first-year **B.Tech Computer Science Engineering student at CodingGita**, currently building the foundation for my journey from **2026 to 2030**.
 
-<p align="center">
-This profile isn't a highlight reel  I don't have big projects or years of experience to show yet.<br/>
-It's a starting point. <b>Learn → Build → Improve → Create</b> that's the loop I'm running, one commit at a time.
-</p>
+I'm at the beginning of my developer journey — currently learning **HTML, CSS, JavaScript, and Python**, while exploring **UI/UX design** and discovering what kind of builder I want to become.
 
+### 💭 How I Learn
+
+I'd rather understand **how and why something works** than copy a solution I don't fully understand. It might take a little longer sometimes, but the knowledge tends to stay with me.
+
+I'm currently getting comfortable with:
+
+**Git · GitHub · VS Code · Figma**
+
+### 🚀 Where I'm Headed
+
+I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DSA, and App Development** as I continue growing.
+
+> **This profile isn't a highlight reel. It's a starting point.**
+
+**Learn → Build → Improve → Create**
+
+*One commit at a time.* 🚀
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -71,18 +77,10 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> that's the 
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=neel-parmar-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" alt="Neel's GitHub stats" /></td>
 <td><img src="https://streak-stats.demolab.com/?user=neel-parmar-21&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=3B82F6&fire=58A6FF&currStreakLabel=93C5FD" alt="Neel's GitHub streak" /></td>
 </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-parmar-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neel-parmar-21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=3B82F6&point=E8F1FF" alt="Contribution activity graph" width="90%"/>
-</p>
 
 <h4 align="center">🐍 Contribution Snake</h4>
 
@@ -97,32 +95,19 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> that's the 
 <p align="center"><sub>Powered by the GitHub Actions workflow below — it needs one push to <code>main</code> to generate.</sub></p>
 
 
-<h3 align="center">🗺️ Developer Journey Timeline</h3>
+## 🚀 My Journey So Far
 
 <div align="center">
 
-```text
-2026
- │
- ├── 🎓 Started B.Tech CSE
- │
- ├── 🏫 Began my journey at CodingGita
- │
- ├── 🌐 Learning HTML & CSS
- │
- ├── 🐍 Learning Python
- │
- ├── ⚡ Exploring JavaScript
- │
- ├── 🎨 Exploring UI/UX
- │
- ▼
-🚀 BUILDING MY FOUNDATION
-```
+| 🎓 THE BEGINNING | 💻 THE FOUNDATION | 🎨 THE CREATIVE SIDE |
+|:---:|:---:|:---:|
+| **2026** | **NOW** | **EXPLORING** |
+| Started my B.Tech CSE journey | Learning the fundamentals | Discovering UI/UX |
+| 🏫 CodingGita | 🌐 HTML & CSS | 🎨 Figma & UI/UX |
+| 🚀 The journey begins | 🐍 Python & JavaScript | ✨ Designing experiences |
 
 </div>
 
-<p align="center"><sub><b>📍 The road ahead — a roadmap, not a record of what's already happened.</b></sub></p>
 
 <div align="center">
 
@@ -135,23 +120,6 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> that's the 
 
 </div>
 
-<h3 align="center">🎯 Mission Control</h3>
-
-<div align="center">
-
-<pre>
-╭──────────────────────────────────────────────╮
-│               CURRENT MISSION                 │
-│                                                │
-│   📚  Learn something every day               │
-│   💻  Understand concepts deeply               │
-│   🛠️  Build projects                           │
-│   🧠  Improve problem-solving                  │
-│   🚀  Become a better developer                │
-│                                                │
-│   STATUS: IN PROGRESS 🟢                       │
-╰──────────────────────────────────────────────╯
-</pre>
 
 </div>
 
@@ -159,30 +127,23 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> that's the 
 
 <h3 align="center">🚀 Future Roadmap</h3>
 
-<div align="center">
+<p align="center">
 
-```text
+📚 <b>Learn</b>
+&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+💻 <b>Build</b>
+&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+🛠️ <b>Create</b>
+&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+🧠 <b>Grow</b>
+&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+🚀 <b>Evolve</b>
 
-       📚 LEARNING
-            │
-            ▼
-       💻 BUILDING
-            │
-            ▼
-      🛠️ PROJECTS
-            │
-            ▼
-      🧠 EXPERIENCE
-            │
-            ▼
-      🚀 DEVELOPER
-            │
-            ▼
-        🌟 FUTURE
-```
+</p>
 
-</div>
-
+<p align="center">
+<sub>Every step forward starts with learning.</sub>
+</p>
 
 <h3 align="center">🌐 Connect</h3>
 
