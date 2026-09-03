@@ -1,57 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=260&section=header&text=NEEL%20PARMAR&fontSize=62&fontColor=E8F1FF&animation=fadeIn&fontAlignY=36&desc=Building%20my%20developer%20journey%2C%20one%20commit%20at%20a%20time.&descAlignY=58&descAlign=50&descSize=17&descColor=93C5FD" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0F2A5F,75:1D4ED8,100:38BDF8&height=280&section=header&text=NEEL%20PARMAR&fontSize=64&fontColor=FFFFFF&fontFamily=Segoe%20UI&fontAlignY=38&desc=Building%20my%20developer%20journey%20%E2%80%94%20one%20commit%20at%20a%20time.&descAlignY=60&descSize=18&descColor=BAE6FD&animation=twinkling&stroke=60A5FA&strokeWidth=1"/>
 <img src="https://komarev.com/ghpvc/?username=neel-parmar-21&label=PROFILE%20VIEWS&color=1E3A8A&style=flat-square&labelColor=0F172A" alt="Profile views"/>
 
-<sub>`NEEL.OS v1.0`&nbsp;&nbsp;·&nbsp;&nbsp;`STATUS: ONLINE`&nbsp;&nbsp;·&nbsp;&nbsp;`USER: Neel Parmar`&nbsp;&nbsp;·&nbsp;&nbsp;`ROLE: B.Tech CSE Student`&nbsp;&nbsp;·&nbsp;&nbsp;`INSTITUTION: CodingGita`</sub>
-
 <br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey!+I%27m+Neel+Parmar+%F0%9F%91%8B;B.Tech+CSE+Student+at+CodingGita+%F0%9F%8E%93;Learning+HTML%2C+CSS%2C+JavaScript+%26+Python;Exploring+UI%2FUX+and+Creative+Technology;Learning.+Building.+Growing.+%F0%9F%9A%80;One+commit+closer+to+the+future.)](https://github.com/neel-parmar-21)
-
-</div>
-
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
-
-<h3 align="center">⚙️ System Boot Sequence</h3>
-
-<div align="center">
-
-```text
-> INITIALIZING DEVELOPER JOURNEY...
-
-  [██████████████████░░░░░░░░░░░░░░░░░░░░]  46%
-
-  LOADING MODULES
-
-    HTML .......................... ONLINE      ✓
-    CSS ........................... ONLINE      ✓
-    JavaScript .................... LEARNING    …
-    Python ......................... BUILDING    …
-    Git / GitHub ................... ONLINE      ✓
-    UI / UX ........................ DESIGNING   …
-
-> STATUS: SYSTEM READY — BEGINNER MODE ENGAGED 🚀
-```
-
-</div>
-
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════════╗
-║                 DEVELOPER PROFILE                 ║
-╠══════════════════════════════════════════════════╣
-║                                                    ║
-║  USER       :  Neel Parmar                        ║
-║  ROLE       :  B.Tech CSE Student                 ║
-║  COLLEGE    :  CodingGita                          ║
-║  JOURNEY    :  2026 → 2030                         ║
-║  STATUS     :  BUILDING THE FUTURE                 ║
-║                                                    ║
-╚══════════════════════════════════════════════════╝
-</pre>
 
 </div>
 
@@ -72,8 +24,8 @@ directions I'm most curious to grow into.
 </p>
 
 <p align="center">
-This profile isn't a highlight reel — I don't have big projects or years of experience to show yet.<br/>
-It's a starting point. <b>Learn → Build → Improve → Create</b> — that's the loop I'm running, one commit at a time.
+This profile isn't a highlight reel  I don't have big projects or years of experience to show yet.<br/>
+It's a starting point. <b>Learn → Build → Improve → Create</b> that's the loop I'm running, one commit at a time.
 </p>
 
 
@@ -210,9 +162,7 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 <div align="center">
 
 ```text
-       YOU ARE HERE
-            │
-            ▼
+
        📚 LEARNING
             │
             ▼
