@@ -1,8 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0B1F45,55:1E40AF,80:2563EB,100:020617&height=240&section=header&text=Neel%20Parmar&fontSize=50&fontColor=F8FAFC&fontFamily=Trebuchet%20MS&fontAlignY=42&desc=Building%20my%20developer%20journey&descAlignY=62&descSize=18&descColor=BFDBFE&animation=fadeIn&stroke=60A5FA&strokeWidth=2"/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=neel-parmar-21&label=PROFILE%20VIEWS&color=1E3A8A&style=flat-square&labelColor=0F172A" alt="Profile views"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:172554,45:1E3A8A,70:2563EB,85:1D4ED8,100:020617&height=250&section=header&text=Neel%20Parmar&fontSize=50&fontColor=F8FAFC&fontFamily=Trebuchet%20MS&fontAlignY=42&desc=Building%20my%20developer%20journey&descAlignY=62&descSize=18&descColor=BFDBFE&animation=fadeIn&stroke=60A5FA&strokeWidth=2"/>
+
+<br/>
+
+<a href="https://github.com/neel-parmar-21">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Neel+Parmar+%F0%9F%91%8B;B.Tech+Computer+Science+Engineering+Student+%F0%9F%8E%93;Studying+at+CodingGita+%F0%9F%8F%AB;Learning+HTML%2C+CSS%2C+JavaScript+%26+Python+%F0%9F%92%BB;Exploring+UI%2FUX+Design+%E2%9C%A8;Learning.+Building.+Growing.+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+</div>
 
 <br><br>
 
@@ -125,23 +133,31 @@ I'm curious about exploring **Web Development, Full-Stack Engineering, AI/ML, DS
 
 </div>
 
-
-
 <h3 align="center">🚀 Future Roadmap</h3>
 
+<div align="center">
+
 <p align="center">
-
   📚 <b>Learn</b>
-&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
-💻 <b>Build</b>
-&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
-🛠️ <b>Create</b>
-&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
-🧠 <b>Grow</b>
-&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
-🚀 <b>Evolve</b>
-
+  &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+  💻 <b>Build</b>
+  &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+  🛠️ <b>Create</b>
+  &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+  🧠 <b>Grow</b>
+  &nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;
+  🚀 <b>Evolve</b>
 </p>
+
+<br>
+
+<p align="center">
+  <sub>One step at a time. One version better than before.</sub>
+</p>
+
+</div>
+
+
 <br>
 
 <h3 align="center">🌐 Connect</h3>
