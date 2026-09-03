@@ -55,7 +55,6 @@
 
 </div>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
 
 <h3 align="center">🧠 About Me</h3>
 
@@ -77,7 +76,6 @@ This profile isn't a highlight reel — I don't have big projects or years of ex
 It's a starting point. <b>Learn → Build → Improve → Create</b> — that's the loop I'm running, one commit at a time.
 </p>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -101,8 +99,6 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
-
 <h3 align="center">📈 Developer Journey Progress</h3>
 <p align="center"><sub>Not skill ratings — just an honest snapshot of where I am with each one right now.</sub></p>
 
@@ -118,7 +114,6 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 
 </div>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
 
 <h3 align="center">📊 GitHub Dashboard</h3>
 
@@ -149,7 +144,6 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 
 <p align="center"><sub>Powered by the GitHub Actions workflow below — it needs one push to <code>main</code> to generate.</sub></p>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
 
 <h3 align="center">🗺️ Developer Journey Timeline</h3>
 
@@ -189,8 +183,6 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 
 </div>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
-
 <h3 align="center">🎯 Mission Control</h3>
 
 <div align="center">
@@ -211,7 +203,7 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 
 </div>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
+
 
 <h3 align="center">🚀 Future Roadmap</h3>
 
@@ -241,7 +233,6 @@ It's a starting point. <b>Learn → Build → Improve → Create</b> — that's 
 
 </div>
 
-<div align="center"><sub>▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬</sub></div>
 
 <h3 align="center">🌐 Connect</h3>
 
