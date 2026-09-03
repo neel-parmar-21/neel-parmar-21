@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://neel-readme-banner.vercel.app"
+    src="https://neel-readme-banner.vercel.app/api/banner"
     alt="Neel Parmar Developer Banner"
   />
 </p>
