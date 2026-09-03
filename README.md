@@ -1,95 +1,147 @@
-<h1 align="center">Hi, I'm Neel Parmar</h1>
-<h3 align="center">B.Tech CSE Student | Learning Full-Stack Development | Tech Enthusiast</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/neel-parmar-230b43427" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/neel-parmar-21">
-    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
 
----
+# Hi 👋, I'm Neel Parmar
 
-## 👨‍💻 About Me
+### 🚀 Building my journey, one line of code at a time.
 
-🎓 First-Year B.Tech Computer Science Engineering Student at **CodingGita**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Learning+to+Build+Amazing+Things+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Exploring+Code%2C+Design+%26+Creativity+%E2%9C%A8" />
 
-💡 Passionate about software development, web technologies, and problem-solving.
+<br/>
 
-🌱 Currently learning:
-- HTML, CSS & JavaScript
-- Git & GitHub
-- C Programming
-- Data Structures & Algorithms
-- React (Beginner)
+<img src="https://komarev.com/ghpvc/?username=neel-parmar-21&label=Profile%20Views&color=2196F3&style=flat" />
 
-🎯 Goal:
-Become a skilled Full-Stack Developer and contribute to impactful open-source projects.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+```text
+┌──────────────────────────────────────────────┐
+│  > INITIALIZING DEVELOPER JOURNEY...         │
+│                                              │
+│  🎓 B.Tech Computer Science Engineering      │
+│  🏫 CodingGita | 2026 — 2030                 │
+│                                              │
+│  STATUS: Learning. Building. Growing. 🚀     │
+└──────────────────────────────────────────────┘
+```
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+I'm at the beginning of my journey in technology and currently exploring the world of **programming, web development, and UI/UX design**.
 
----
+I believe great developers are built through **curiosity, consistency, and building things**.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+> 💡 *Currently turning curiosity into code.*
 
 ---
 
-## 🔥 GitHub Streak
+# 🧠 Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,figma&theme=light" />
+
+</div>
+
+<br/>
+
+```text
+HTML        ████████░░  Learning
+CSS         ███████░░░  Learning
+JavaScript  ███░░░░░░░  Exploring
+Python      ██████░░░░  Building
+UI/UX       ██████░░░░  Designing
+```
+
+> 🚀 Progress isn't about knowing everything. It's about learning something new every day.
 
 ---
 
-## 🚀 Current Focus
+# 🛠️ My Tech Stack
 
-- 📚 Learning Data Structures & Algorithms
-- 🌐 Building responsive web applications
-- 🤝 Contributing to GitHub projects
-- 💻 Improving coding skills every day
+<div align="center">
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,github&perline=7" />
+
+### 🎨 Design
+
+<img src="https://skillicons.dev/icons?i=figma&perline=5" />
+
+</div>
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Activity
 
-- 💼 LinkedIn: https://www.linkedin.com/in/neel-parmar-230b43427/
-- 📧 Email: neel.parmar.cg@gmail.com
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neel-parmar-21&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=555&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-parmar-21&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=555" />
+
+</div>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+# 🔥 Contribution Streak
 
-<!--
-**neel-parmar-21/neel-parmar-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://streak-stats.demolab.com?user=neel-parmar-21&theme=transparent&hide_border=true&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 🚀 My Developer Journey
+
+```text
+2026
+ │
+ ├── 🎓 Started B.Tech in Computer Science Engineering
+ │
+ ├── 🌐 Learning Web Development
+ │     ├── HTML
+ │     ├── CSS
+ │     └── JavaScript
+ │
+ ├── 🐍 Learning Python
+ │
+ ├── 🎨 Exploring UI/UX Design
+ │
+ └── 🚀 The journey has just begun...
+```
+
+---
+
+# 🎯 What I'm Working Towards
+
+<div align="center">
+
+```text
+LEARN 📚  →  BUILD 🛠️  →  IMPROVE 📈  →  CREATE 🚀
+```
+
+</div>
+
+I'm interested in exploring:
+
+- 🌐 **Web Development**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 💻 **Software Development**
+- 🎨 **UI/UX Design**
+- 🧠 **Data Structures & Algorithms**
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**The journey has just begun. 🚀**
+
+</div>
